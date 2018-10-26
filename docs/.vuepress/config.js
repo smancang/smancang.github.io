@@ -37,11 +37,11 @@ module.exports = {
         items: [
           {
             text: "二级标题1",
-            link: "http://www.baidu.com"
+            link: "https://smancang.github.io/"
           },
           {
             text: "二级标题2",
-            link: "http://www.baidu.com"
+            link: "https://smancang.github.io/"
           }
         ]
       },
@@ -56,7 +56,7 @@ module.exports = {
       // 链接到网站
       {
         text: "Github",
-        link: "https://smancang.github.io/yh.github.io/"
+        link: "https://smancang.github.io/"
       }
     ],
     sidebar: {
